@@ -1,2 +1,2 @@
 # first-class
-https://github.com/anjumromy/first-class
+https://anjumromy.github.io/first-class-html/
